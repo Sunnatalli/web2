@@ -1,0 +1,88 @@
+﻿body {
+}
+
+.header-strip {
+	background-color: #222222;
+	padding: 5px;
+	border-bottom: 3px solid #428bca;
+}
+
+	.header-strip a, .header-strip span {
+		color: #999999;
+		padding-right: 5px;
+		padding-left: 5px;
+	}
+
+.navbar-inverse {
+	border-color: #222222;
+}
+
+.logo {
+	float: left;
+	width: 50%;
+}
+
+.navbar {
+	border-radius: 0;
+	margin-bottom: 0;
+}
+
+.main-body {
+	border-bottom: 3px solid #428bca;
+}
+
+.social-icon {
+	width: 50px;
+	height: 50px;
+	display: inline-block;
+	margin-right: 10px;
+}
+
+.twitter {
+	background: url(../Images/twitter.png) no-repeat;
+}
+
+.facebook {
+	background: url(../Images/fb.png) no-repeat;
+}
+
+.vk {
+	background: url(../Images/vk.png) no-repeat;
+}
+
+.footer-strip {
+	background-color: #222222;
+	padding: 5px;
+	color: #428bca;
+}
+
+	.footer-strip li {
+		list-style-type: none;
+	}
+
+	.footer-strip a {
+		color: #999999;
+	}
+
+	.footer-strip h6 {
+		color: #999999;
+		border-bottom: dotted 1px #999999;
+	}
+
+.item-row {
+	margin: 5px;
+}
+
+.centered {
+	text-align: center;
+}
+
+.item-name {
+	min-height: 65px;
+}
+
+.item-description {
+	min-height: 50px;
+	border-top: solid 1px #dddddd;
+	border-bottom: solid 1px #dddddd
+}

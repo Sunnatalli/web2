@@ -1,0 +1,262 @@
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331\bin\ApplicationInsights.config
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331\bin\Popkov_60331.dll.config
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331\bin\Popkov_60331.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331\bin\Popkov_60331.pdb
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331\bin\roslyn\csc.exe
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331\bin\roslyn\csc.exe.config
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331\bin\roslyn\csc.rsp
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331\bin\roslyn\csi.exe
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331\bin\roslyn\csi.exe.config
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331\bin\roslyn\csi.rsp
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331\bin\roslyn\System.AppContext.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331\bin\roslyn\System.Collections.Immutable.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331\bin\roslyn\System.Console.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331\bin\roslyn\System.Diagnostics.Process.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331\bin\roslyn\System.IO.Compression.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331\bin\roslyn\System.IO.FileSystem.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331\bin\roslyn\System.IO.Pipes.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331\bin\roslyn\System.Reflection.Metadata.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331\bin\roslyn\System.Security.AccessControl.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331\bin\roslyn\System.Security.Claims.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331\bin\roslyn\System.Security.Principal.Windows.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331\bin\roslyn\System.Threading.Thread.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331\bin\roslyn\System.ValueTuple.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331\bin\roslyn\System.Xml.XmlDocument.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331\bin\roslyn\System.Xml.XPath.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331\bin\roslyn\vbc.exe
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331\bin\roslyn\vbc.exe.config
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331\bin\roslyn\vbc.rsp
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331\bin\roslyn\VBCSCompiler.exe
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331\bin\roslyn\VBCSCompiler.exe.config
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331\bin\Antlr3.Runtime.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331\bin\EntityFramework.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331\bin\EntityFramework.SqlServer.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331\bin\Microsoft.AI.Agent.Intercept.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331\bin\Microsoft.AI.DependencyCollector.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331\bin\Microsoft.AI.Web.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331\bin\Microsoft.AI.WindowsServer.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331\bin\Microsoft.ApplicationInsights.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331\bin\Microsoft.AspNet.Identity.Core.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331\bin\Microsoft.Owin.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331\bin\Microsoft.Owin.Security.Cookies.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331\bin\Microsoft.Owin.Security.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331\bin\Microsoft.Owin.Security.Facebook.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331\bin\Microsoft.Owin.Security.Google.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331\bin\Microsoft.Owin.Security.OAuth.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331\bin\Microsoft.Owin.Security.Twitter.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331\bin\Microsoft.Web.Infrastructure.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331\bin\Newtonsoft.Json.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331\bin\Ninject.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331\bin\Ninject.Web.Common.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331\bin\Ninject.Web.Common.WebHost.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331\bin\Ninject.Web.Mvc.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331\bin\Owin.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331\bin\Popkov_60331.DAL.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331\bin\System.Web.Helpers.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331\bin\System.Web.Mvc.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331\bin\System.Web.Optimization.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331\bin\System.Web.Razor.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331\bin\System.Web.WebPages.Deployment.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331\bin\System.Web.WebPages.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331\bin\System.Web.WebPages.Razor.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331\bin\WebGrease.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331\bin\Popkov_60331.DAL.pdb
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331\bin\Popkov_60331.DAL.dll.config
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331\bin\Ninject.xml
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331\bin\Ninject.Web.Common.xml
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331\bin\Ninject.Web.Common.WebHost.xml
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331\bin\Ninject.Web.Mvc.xml
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331\bin\System.Web.Helpers.xml
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331\bin\System.Web.Mvc.xml
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331\bin\System.Web.Optimization.xml
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331\bin\System.Web.Razor.xml
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331\bin\System.Web.WebPages.xml
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331\bin\System.Web.WebPages.Deployment.xml
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331\bin\System.Web.WebPages.Razor.xml
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331\bin\Antlr3.Runtime.pdb
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331\bin\Newtonsoft.Json.xml
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331\bin\EntityFramework.xml
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331\bin\EntityFramework.SqlServer.xml
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331\bin\Microsoft.AspNet.Identity.Core.xml
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331\bin\Microsoft.Owin.xml
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331\bin\Microsoft.Owin.Security.xml
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331\bin\Microsoft.Owin.Security.Facebook.xml
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331\bin\Microsoft.Owin.Security.Cookies.xml
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331\bin\Microsoft.Owin.Security.OAuth.xml
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331\bin\Microsoft.Owin.Security.Google.xml
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331\bin\Microsoft.Owin.Security.Twitter.xml
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331\bin\Microsoft.ApplicationInsights.xml
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331\bin\Microsoft.AI.DependencyCollector.xml
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331\bin\Microsoft.AI.WindowsServer.xml
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331\bin\Microsoft.AI.Web.xml
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331\obj\Debug\Gornaya_80323.csprojAssemblyReference.cache
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331\obj\Debug\Gornaya_80323.csproj.CoreCompileInputs.cache
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331\obj\Debug\Gornaya_80323.csproj.CopyComplete
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331\obj\Debug\Popkov_60331.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331\obj\Debug\Popkov_60331.pdb
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331\obj\Debug\Gornaya_80323.csprojAssemblyReference.cache
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331\obj\Debug\Gornaya_80323.csproj.CoreCompileInputs.cache
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331\obj\Debug\Popkov_60331.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331\obj\Debug\Popkov_60331.pdb
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331\bin\ApplicationInsights.config
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331\bin\Popkov_60331.dll.config
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331\bin\Popkov_60331.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331\bin\Popkov_60331.pdb
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331\bin\roslyn\csc.exe
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331\bin\roslyn\csc.exe.config
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331\bin\roslyn\csc.rsp
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331\bin\roslyn\csi.exe
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331\bin\roslyn\csi.exe.config
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331\bin\roslyn\csi.rsp
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331\bin\roslyn\System.AppContext.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331\bin\roslyn\System.Collections.Immutable.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331\bin\roslyn\System.Console.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331\bin\roslyn\System.Diagnostics.Process.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331\bin\roslyn\System.IO.Compression.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331\bin\roslyn\System.IO.FileSystem.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331\bin\roslyn\System.IO.Pipes.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331\bin\roslyn\System.Reflection.Metadata.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331\bin\roslyn\System.Security.AccessControl.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331\bin\roslyn\System.Security.Claims.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331\bin\roslyn\System.Security.Principal.Windows.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331\bin\roslyn\System.Threading.Thread.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331\bin\roslyn\System.ValueTuple.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331\bin\roslyn\System.Xml.XmlDocument.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331\bin\roslyn\System.Xml.XPath.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331\bin\roslyn\vbc.exe
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331\bin\roslyn\vbc.exe.config
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331\bin\roslyn\vbc.rsp
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331\bin\roslyn\VBCSCompiler.exe
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331\bin\roslyn\VBCSCompiler.exe.config
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331\bin\Antlr3.Runtime.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331\bin\EntityFramework.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331\bin\EntityFramework.SqlServer.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331\bin\Microsoft.AI.Agent.Intercept.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331\bin\Microsoft.AI.DependencyCollector.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331\bin\Microsoft.AI.Web.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331\bin\Microsoft.AI.WindowsServer.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331\bin\Microsoft.ApplicationInsights.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331\bin\Microsoft.AspNet.Identity.Core.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331\bin\Microsoft.Owin.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331\bin\Microsoft.Owin.Security.Cookies.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331\bin\Microsoft.Owin.Security.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331\bin\Microsoft.Owin.Security.Facebook.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331\bin\Microsoft.Owin.Security.Google.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331\bin\Microsoft.Owin.Security.OAuth.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331\bin\Microsoft.Owin.Security.Twitter.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331\bin\Microsoft.Web.Infrastructure.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331\bin\Newtonsoft.Json.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331\bin\Ninject.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331\bin\Ninject.Web.Common.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331\bin\Ninject.Web.Common.WebHost.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331\bin\Ninject.Web.Mvc.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331\bin\Owin.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331\bin\Popkov_60331.DAL.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331\bin\System.Web.Helpers.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331\bin\System.Web.Mvc.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331\bin\System.Web.Optimization.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331\bin\System.Web.Razor.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331\bin\System.Web.WebPages.Deployment.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331\bin\System.Web.WebPages.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331\bin\System.Web.WebPages.Razor.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331\bin\WebGrease.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331\bin\Popkov_60331.DAL.pdb
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331\bin\Popkov_60331.DAL.dll.config
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331\bin\Ninject.xml
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331\bin\Ninject.Web.Common.xml
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331\bin\Ninject.Web.Common.WebHost.xml
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331\bin\Ninject.Web.Mvc.xml
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331\bin\System.Web.Helpers.xml
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331\bin\System.Web.Mvc.xml
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331\bin\System.Web.Optimization.xml
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331\bin\System.Web.Razor.xml
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331\bin\System.Web.WebPages.xml
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331\bin\System.Web.WebPages.Deployment.xml
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331\bin\System.Web.WebPages.Razor.xml
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331\bin\Antlr3.Runtime.pdb
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331\bin\Newtonsoft.Json.xml
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331\bin\EntityFramework.xml
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331\bin\EntityFramework.SqlServer.xml
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331\bin\Microsoft.AspNet.Identity.Core.xml
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331\bin\Microsoft.Owin.xml
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331\bin\Microsoft.Owin.Security.xml
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331\bin\Microsoft.Owin.Security.Facebook.xml
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331\bin\Microsoft.Owin.Security.Cookies.xml
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331\bin\Microsoft.Owin.Security.OAuth.xml
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331\bin\Microsoft.Owin.Security.Google.xml
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331\bin\Microsoft.Owin.Security.Twitter.xml
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331\bin\Microsoft.ApplicationInsights.xml
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331\bin\Microsoft.AI.DependencyCollector.xml
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331\bin\Microsoft.AI.WindowsServer.xml
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331\bin\Microsoft.AI.Web.xml
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331\obj\Debug\Gornaya_80323.csproj.CopyComplete

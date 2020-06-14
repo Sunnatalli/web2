@@ -1,0 +1,15 @@
+﻿@model Gornaya_80323.Models.PageListViewModel<Gornaya_80323.DAL.Book>
+@using System.Text;
+@{
+	ViewBag.Title = "List";
+}
+<h2>List</h2>
+<div id="List">
+	@Html.Partial("ListPartial",Model)
+</div>
+
+@section SidePanel
+{
+	@Html.Action("Side","Menu")
+}
+

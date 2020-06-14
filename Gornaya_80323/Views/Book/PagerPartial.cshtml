@@ -1,0 +1,63 @@
+﻿@model Gornaya_80323.Models.PageListViewModel<Gornaya_80323.DAL.Book>
+@using System.Text;
+
+@{
+	var bookType = Request.RequestContext.RouteData.Values["type"];
+	var result = new StringBuilder();
+
+	// стрелка влево
+	var liPrevNext = new TagBuilder("li");
+
+	liPrevNext.InnerHtml = Ajax.ActionLink("<<", "List", new {
+		type=bookType,
+		page = Model.CurrentPage - 1 },
+		new AjaxOptions {
+			InsertionMode=InsertionMode.Replace,UpdateTargetId="List"
+		})
+		.ToString();
+
+	if (Model.CurrentPage == 1)
+	{
+		liPrevNext.AddCssClass("disabled");
+	}
+	result.Append(liPrevNext.ToString());
+	// пейджер
+	for (int i = 1; i <= Model.TotalPages; i++)
+	{
+		var li = new TagBuilder("li");
+		if (i == Model.CurrentPage)
+		{
+			li.AddCssClass("active");
+		}
+		li.InnerHtml = Ajax.RouteLink(i.ToString(), new
+		{
+			action = "List",
+			type = bookType,
+			page=i
+		},
+		new AjaxOptions {
+			UpdateTargetId ="List",
+			InsertionMode =InsertionMode.Replace})
+			.ToString();
+		result.Append(li.ToString());
+
+	}
+	// стрелка вправо
+	liPrevNext = new TagBuilder("li");
+	liPrevNext.InnerHtml = Ajax.ActionLink(">>", "List", new {
+		type =bookType,
+		page = Model.CurrentPage + 1 },
+		new AjaxOptions { InsertionMode=InsertionMode.Replace,
+		UpdateTargetId="List"})
+							   .ToString();
+
+	if (Model.CurrentPage == Model.TotalPages)
+	{
+		liPrevNext.AddCssClass("disabled");
+	}
+	result.Append(liPrevNext.ToString());
+}
+
+<ul class="pagination">
+	@MvcHtmlString.Create(result.ToString());
+</ul>

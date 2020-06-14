@@ -1,0 +1,58 @@
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331.DAL\bin\Debug\Popkov_60331.DAL.dll.config
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331.DAL\bin\Debug\Popkov_60331.DAL.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331.DAL\bin\Debug\Popkov_60331.DAL.pdb
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331.DAL\bin\Debug\EntityFramework.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331.DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331.DAL\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331.DAL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331.DAL\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331.DAL\bin\Debug\System.Web.Helpers.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331.DAL\bin\Debug\System.Web.Mvc.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331.DAL\bin\Debug\System.Web.Razor.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331.DAL\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331.DAL\bin\Debug\System.Web.WebPages.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331.DAL\bin\Debug\System.Web.WebPages.Razor.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331.DAL\bin\Debug\EntityFramework.xml
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331.DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331.DAL\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331.DAL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331.DAL\bin\Debug\System.Web.Helpers.xml
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331.DAL\bin\Debug\System.Web.Mvc.xml
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331.DAL\bin\Debug\System.Web.Razor.xml
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331.DAL\bin\Debug\System.Web.WebPages.xml
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331.DAL\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331.DAL\bin\Debug\System.Web.WebPages.Razor.xml
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331.DAL\obj\Debug\Gornaya_80323.DAL.csprojAssemblyReference.cache
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331.DAL\obj\Debug\Gornaya_80323.DAL.csproj.CoreCompileInputs.cache
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331.DAL\obj\Debug\Gornaya_80323.DAL.csproj.CopyComplete
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331.DAL\obj\Debug\Popkov_60331.DAL.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Popkov_60331\Popkov_60331.DAL\obj\Debug\Popkov_60331.DAL.pdb
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331.DAL\bin\Debug\Popkov_60331.DAL.dll.config
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331.DAL\bin\Debug\Popkov_60331.DAL.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331.DAL\bin\Debug\Popkov_60331.DAL.pdb
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331.DAL\bin\Debug\EntityFramework.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331.DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331.DAL\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331.DAL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331.DAL\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331.DAL\bin\Debug\System.Web.Helpers.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331.DAL\bin\Debug\System.Web.Mvc.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331.DAL\bin\Debug\System.Web.Razor.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331.DAL\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331.DAL\bin\Debug\System.Web.WebPages.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331.DAL\bin\Debug\System.Web.WebPages.Razor.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331.DAL\bin\Debug\EntityFramework.xml
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331.DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331.DAL\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331.DAL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331.DAL\bin\Debug\System.Web.Helpers.xml
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331.DAL\bin\Debug\System.Web.Mvc.xml
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331.DAL\bin\Debug\System.Web.Razor.xml
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331.DAL\bin\Debug\System.Web.WebPages.xml
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331.DAL\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331.DAL\bin\Debug\System.Web.WebPages.Razor.xml
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331.DAL\obj\Debug\Gornaya_80323.DAL.csprojAssemblyReference.cache
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331.DAL\obj\Debug\Gornaya_80323.DAL.csproj.CoreCompileInputs.cache
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331.DAL\obj\Debug\Gornaya_80323.DAL.csproj.CopyComplete
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331.DAL\obj\Debug\Popkov_60331.DAL.dll
+D:\IIT\4 сем\Веб-технологии Гламаздин\Gornaya_80323 — копия\Popkov_60331.DAL\obj\Debug\Popkov_60331.DAL.pdb

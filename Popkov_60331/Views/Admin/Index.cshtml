@@ -1,0 +1,65 @@
+﻿@model IEnumerable<Gornaya_80323.DAL.Book>
+
+@{
+	ViewBag.Title = "Index";
+}
+
+@if (TempData["message"] != null)
+{
+	<h2 class="Message">@TempData["message"] </h2>
+}
+@*<h2>Index</h2>*@
+
+<p>
+	@Html.ActionLink("Добавить", "Create")
+</p>
+<table class="table">
+	<tr>
+		<th>
+			@Html.DisplayNameFor(model => model.BookTitle)
+		</th>
+		<th>
+			@Html.DisplayNameFor(model => model.BookAuthor)
+		</th>
+		<th>
+			@Html.DisplayNameFor(model => model.Description)
+		</th>
+		<th>
+			@Html.DisplayNameFor(model => model.BookType)
+		</th>
+		<th>
+			@Html.DisplayNameFor(model => model.BookPrice)
+		</th>
+
+		<th></th>
+	</tr>
+
+	@foreach (var item in Model)
+	{
+		<tr>
+			<td>
+				@Html.ActionLink(@Html.DisplayFor(modelItem =>
+							 item.BookTitle).ToString(),
+														"Edit",
+														new { id = item.BookId })
+			</td>
+			<td>
+				@Html.DisplayFor(modelItem => item.BookAuthor)
+			</td>
+			<td>
+				@Html.DisplayFor(modelItem => item.Description)
+			</td>
+			<td>
+				@Html.DisplayFor(modelItem => item.BookType)
+			</td>
+			<td>
+				@Html.DisplayFor(modelItem => item.BookPrice)
+			</td>
+
+			<td>
+				@Html.ActionLink("Удалить", "Delete", new { id = item.BookId })
+			</td>
+		</tr>
+	}
+
+</table>

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gornaya_80323", "Popkov_60331\Gornaya_80323.csproj", "{A2B0ED19-8E0B-48AA-860A-25CE2D7772C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gornaya_80323.DAL", "Popkov_60331.DAL\Gornaya_80323.DAL.csproj", "{EFEF2045-96DF-407E-A1AF-A71E60CCD3EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2B0ED19-8E0B-48AA-860A-25CE2D7772C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2B0ED19-8E0B-48AA-860A-25CE2D7772C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2B0ED19-8E0B-48AA-860A-25CE2D7772C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2B0ED19-8E0B-48AA-860A-25CE2D7772C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFEF2045-96DF-407E-A1AF-A71E60CCD3EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFEF2045-96DF-407E-A1AF-A71E60CCD3EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFEF2045-96DF-407E-A1AF-A71E60CCD3EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFEF2045-96DF-407E-A1AF-A71E60CCD3EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88FE83DF-1047-43B9-BDAD-8DFE12A04A3B}
+	EndGlobalSection
+EndGlobal

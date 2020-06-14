@@ -1,0 +1,18 @@
+﻿
+@model IEnumerable<Gornaya_80323.Models.MenuItem>
+
+<ul class="nav nav-pills">
+	@foreach (var item in Model)
+	{
+		<li class="@item.Active">
+			@Html.ActionLink(item.Name, item.Action, item.Controller)
+		</li>
+	}
+
+	@*<li>@Html.ActionLink("Домой", "Index", "Home")</li>
+		<li class="active">
+			@Html.ActionLink("Каталог", "List", "Product")
+		</li>
+		<li>@Html.ActionLink("Администрирование", "Index", "Admin")</li>*@
+</ul>
+

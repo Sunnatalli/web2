@@ -1,0 +1,34 @@
+﻿@model  Gornaya_80323.DAL.Book
+
+<div class='col-md-4'>
+	<div class='thumbnail'>
+		<img height="200" 
+			 src="@Url.Action("getImage",new { id=Model.BookId})"			 
+			  alt='NoImage' 
+			 class="img-thumbnail"/>
+		<div class="caption">
+			<div class="item-name">
+				<h3>@Model.BookTitle </h3>
+			</div>
+			<div class="item-description">
+				@Model.BookAuthor
+			</div>
+			<div class="item-description">
+				@Model.Description
+			</div>
+			<div class="centered">
+				<h3 class="badge"> @Model.BookPrice руб. </h3>
+			</div>
+			<div class="centered">
+				<a href=@Url.Action("AddToCart",
+                        "Cart",
+                         new {id=Model.BookId, returnUrl=Request.Path} ) class="btn btn-primary">
+					<span class="glyphicon glyphicon-shopping-cart">
+					</span>
+					В корзину
+				</a>
+			</div>
+		</div>
+	</div>
+</div>
+

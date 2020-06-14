@@ -1,0 +1,6 @@
+﻿@model Gornaya_80323.Models.Cart
+
+<a href=@Url.Action("Index","Cart",new {returnUrl=Request.Path })>
+	@Model.GetTotal() руб. ( @Model.GetItems().Sum(i => i.Quantity) )
+	<span class="glyphicon glyphicon-shopping-cart"></span>
+</a>
